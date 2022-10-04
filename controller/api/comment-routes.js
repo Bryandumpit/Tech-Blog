@@ -18,8 +18,6 @@ Comment.findAll(
         res.status(400).json(err);
 })
 
-//GET; findOne comment by id
-
 //POST; create comment
 
 //PUT; update comment by id
